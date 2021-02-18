@@ -2,13 +2,13 @@
 Contains Python Notebook that we used to analyze the sanitation situation in the Country. 19th February,2021
 
 ## Names of Contributors
-Faith Kihara - Team lead and Visualization
-John Chege - Data Cleaning
-Brenda Musembi - Data Cleaning
-Audrey Imali - Data Analysis
-Sheri Njoroge - Data Analysis
-Newton Macharia - Data Report
-Agnes Wambui - Data Report
+- Faith Kihara - Team lead and Visualization
+- John Chege - Data Cleaning
+- Brenda Musembi - Data Cleaning
+- Audrey Imali - Data Analysis
+- Sheri Njoroge - Data Analysis
+- Newton Macharia - Data Report
+- Agnes Wambui - Data Report
 
 ## Description
 This repository contains a Google Collaboratory notebook that contains Python code that we used to clean and analyze data that 
